@@ -1,14 +1,17 @@
 [
     {
         "name":"Toby",
-        "ID":"001"
+        "ID":"001",
+        "salary":"10000"
     },
     {
         "name":"Andy",
         "ID":"002"
+        "salary":"20000"
     },
     {
         "name":"Emily",
         "ID":"003"
+        "salary":"70000"
     }
 ]
