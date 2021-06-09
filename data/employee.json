@@ -2,16 +2,16 @@
     {
         "name":"Toby",
         "ID":"001",
-        "salary":"10000"
+        "salary":"100"
     },
     {
         "name":"Andy",
         "ID":"002",
-        "salary":"20000"
+        "salary":"200"
     },
     {
         "name":"Emily",
         "ID":"003",
-        "salary":"70000"
+        "salary":"300"
     }
 ]
